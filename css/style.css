@@ -1,0 +1,85 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.link ul li {
+	list-style-type: none;
+}
+
+.link ul li a {
+	text-decoration: none;
+
+}
+
+span {
+	font-size: 13px;
+}
+
+a {
+	font-size: 13px;
+}
+
+.img img {
+	width: 500px;
+	height: 350px;
+}
+
+.form_button input {
+	width: 280px;
+	padding: 2px;
+}
+
+p {
+	font-size: 15px;
+}
+
+.img_size img {
+	height: 13px;
+}
+
+.form_button button {
+	width: 150px;
+
+}
+
+.bg_image {
+	background-image: url('../images/bg-curve-desktop.svg');
+}
+
+.mt {
+	margin-top: 110px;
+}
+
+.small_box {
+	width: 400px;
+	background-color: #ffffff;
+}
+
+.bg {
+	background-color: #575989;
+}
+
+.test_img img {
+	width: 40px;
+	height: 40px;
+}
+
+.d_input input {
+	width: 400px;
+	height: 40px;
+	border: none;
+	outline: none;
+}
+
+footer {
+	background-color: #07043b;
+}
+
+.d_link ul li {
+	list-style-type: none;
+}
+
+.d_link ul li a {
+	color: #ffffff;
+}
